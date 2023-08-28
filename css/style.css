@@ -124,6 +124,7 @@
 .btn-text i{
   margin-top: 20px;
   font-size: 40px;
+  display: inline-block;
 }
 /*navbar fixed styling */
 .fixed-top {
